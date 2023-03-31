@@ -1,5 +1,15 @@
 # BlockChainLinks
 
+## Ethereum
+
+- https://ethereum.org/zh/
+- https://etherscan.io/
+
+## BNB
+
+- https://www.bnbchain.org/zh-CN
+- https://bscscan.com/
+
 ## Polygon
 
 - https://polygon.technology/
@@ -29,7 +39,8 @@
 
 #### Optimism
 
-- xx
+- https://www.optimism.io/
+- https://optimistic.etherscan.io/
 
 #### Arbitrum One
 
