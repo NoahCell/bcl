@@ -49,3 +49,9 @@
 - https://bridge.arbitrum.io
 
 - https://developer.arbitrum.io/
+
+
+---
+
+- https://usdcfaucet.com/
+
