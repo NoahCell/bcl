@@ -15,6 +15,7 @@
 - https://polygon.technology/
 - https://polygonscan.com/
 - https://wallet.polygon.technology/
+- https://wallet.polygon.technology/polygon/bridge/deposit/
 
 ## Ethereum L2
 
@@ -29,7 +30,7 @@
 
 #### Polygon zkEVM
 
-- https://polygon.technology/polygon-zkevm
+- https://polygon.technology/polygon-zkevm/
 - https://zkevm.polygonscan.com/
 - https://wallet.polygon.technology/zkEVM/bridge
 
@@ -41,14 +42,24 @@
 
 - https://www.optimism.io/
 - https://optimistic.etherscan.io/
+- https://app.optimism.io/bridge/deposit/
 
 #### Arbitrum One
 
 - https://arbitrum.io/
 - https://arbiscan.io/
-- https://bridge.arbitrum.io
+- https://bridge.arbitrum.io/
 
 - https://developer.arbitrum.io/
+
+
+---
+
+- https://app.uniswap.org/#/swap
+
+
+- https://cbridge.celer.network/
+
 
 
 ---
