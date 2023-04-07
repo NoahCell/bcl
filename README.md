@@ -56,7 +56,12 @@
 ---
 
 - https://app.uniswap.org/#/swap
-
+- https://app.1inch.io/
+- https://syncswap.xyz/
+- https://pancakeswap.finance/swap
+- https://app.sushi.com/swap
+- https://app.balancer.fi/
+- https://swap.defillama.com/
 
 - https://cbridge.celer.network/
 
