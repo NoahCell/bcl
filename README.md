@@ -37,6 +37,8 @@
 #### Scroll
 
 - https://scroll.io/
+- https://blockscout.scroll.io/
+- https://scroll.io/alpha/bridge
 
 #### Optimism
 
