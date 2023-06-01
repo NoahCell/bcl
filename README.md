@@ -39,6 +39,7 @@
 - https://scroll.io/
 - https://blockscout.scroll.io/
 - https://scroll.io/alpha/bridge
+- https://scroll.izumi.finance/home
 
 #### Optimism
 
