@@ -85,6 +85,11 @@
 
 ---
 
-https://taho.xyz/
+- https://taho.xyz/
+
+
+---
+
+- https://wallet.hiro.so/
 
 
