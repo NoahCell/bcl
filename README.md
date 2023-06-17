@@ -41,6 +41,14 @@
 - https://scroll.io/alpha/bridge
 - https://scroll.izumi.finance/home
 
+#### Linea
+
+- https://linea.build/
+- https://docs.linea.build/
+- https://goerli.lineascan.build/
+- bridge: https://goerli.hop.exchange/#/send?token=ETH&destNetwork=linea&sourceNetwork=ethereum
+- swap: https://swap.goerli.linea.build/
+
 #### Optimism
 
 - https://www.optimism.io/
@@ -64,7 +72,7 @@
 
 - https://home.liquidswap.com/
 
-#### SUI
+#### Sui
 
 - https://suiexplorer.com/?network=mainnet
 
@@ -86,6 +94,9 @@
 - https://swap.defillama.com/
 - https://suiswap.app/app/
 - https://home.liquidswap.com/
+
+- https://hop.exchange/
+- https://goerli.hop.exchange/
 
 ## DEX 借贷
 
